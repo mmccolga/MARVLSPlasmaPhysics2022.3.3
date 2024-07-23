@@ -67,6 +67,14 @@ crashlytics-build.properties
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
+# Vuforia file
+/[Pp]ackages/com.ptc.vuforia.engine-10.15.4.tgz
+
+# .DS_Store files
+/.DS_Store
+/[Aa]ssets/.DS_Store
+
+
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
