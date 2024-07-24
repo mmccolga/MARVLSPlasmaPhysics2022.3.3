@@ -792,7 +792,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -563.3, y: -22.9}
+  m_AnchoredPosition: {x: -563.3, y: -22.900024}
   m_SizeDelta: {x: 85, y: 85}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &304288851
@@ -871,7 +871,7 @@ PrefabInstance:
     - target: {fileID: 6917280843116783934, guid: 55f759357bc29b14598b5101d67d5e9b,
         type: 3}
       propertyPath: m_text
-      value: Nuslear fusion reaction
+      value: Nuclear fusion reaction
       objectReference: {fileID: 0}
     - target: {fileID: 6917280843116783934, guid: 55f759357bc29b14598b5101d67d5e9b,
         type: 3}
